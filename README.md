@@ -29,6 +29,10 @@ e.g. OBS
 
 ![obs](./obs.png)
 
+e.g. Mobile (Android)
+
+https://github.com/TakuSemba/RtmpPublisher
+
 ## 3. Get streaming movie/frame by OpenCV (PC-C)
 
 ```python
