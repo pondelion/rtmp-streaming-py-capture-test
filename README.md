@@ -31,6 +31,7 @@ e.g. OBS
 
 e.g. Mobile (Android)
 
+https://github.com/pedroSG94/rtmp-rtsp-stream-client-java
 https://github.com/TakuSemba/RtmpPublisher
 
 ## 3. Get streaming movie/frame/audio (PC-C)
